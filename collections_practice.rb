@@ -26,3 +26,9 @@ end
 
 swap_elements(["blake", "ashley", "scott"])
 
+def reverse_array(array)
+  array.reverse
+end
+
+reverse_array(["blake", "ashley", "scott"])
+
